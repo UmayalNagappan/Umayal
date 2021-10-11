@@ -1,0 +1,41 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: cursive;}
+h1{margin:30px auto 0 auto;
+  font-weight:bold;
+  font-size:3rem;
+  line-height: 2;
+  font-family:'Lucida Handwriting',cursive; }
+h2{color:black;}
+h3{color:#519872;}
+hr{border: dotted 6px;
+border-bottom: none;
+width: 4%;
+height:auto;}
+a:hover{color:white;}
+.top{background-color:#F39189;}
+.middle{background-color:#E1F2FB;
+  color:#31112C;}
+.skills{background-color:#F1F9F9;
+  line-height:2;
+color: #4A403A}
+.prog{width: 300px;
+  height: 300px;
+  border-radius: 100px;}
+.me{width:50%;
+margin: auto;
+line-height: 2}
+.parah{font-size:150%;
+  line-height: inherit;
+font-weight: 800;}
+.bottom-c{position: absolute;}
+.top-c{position: relative;
+  left:180px;
+  padding-top: 50px;}
+.photo{height:200px ;
+  width:200px}
+.contact{
+  background-color:#A8E7E9;
+}
